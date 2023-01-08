@@ -1,0 +1,23 @@
+{
+  "name": "event-management-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikrishna7004/event-management-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikrishna7004/event-management-system/issues"
+  },
+  "homepage": "https://github.com/saikrishna7004/event-management-system#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
